@@ -1,0 +1,89 @@
+# ============================================================================
+# CLOUDFLARE WRANGLER CONFIGURATION
+# Theophysics Equation Validator
+# ============================================================================
+
+name = "theophysics-validator"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+# ============================================================================
+# WORKERS CONFIGURATION
+# ============================================================================
+
+# Account details (replace with your own)
+account_id = "YOUR_ACCOUNT_ID_HERE"  # Get from Cloudflare dashboard
+workers_dev = true
+
+# Routes (for custom domain)
+# Uncomment and configure when you have a domain
+# routes = [
+#   { pattern = "validator.theophysics.org/*", zone_name = "theophysics.org" }
+# ]
+
+# ============================================================================
+# D1 DATABASE BINDING
+# ============================================================================
+
+[[d1_databases]]
+binding = "DB"  # This is the variable name in your worker code
+database_name = "theophysics-validator-db"
+database_id = "YOUR_DATABASE_ID_HERE"  # Will be generated when you create the DB
+
+# ============================================================================
+# R2 STORAGE (for serving index.html)
+# ============================================================================
+
+# Uncomment to store static files in R2
+# [[r2_buckets]]
+# binding = "ASSETS"
+# bucket_name = "theophysics-validator-assets"
+
+# ============================================================================
+# KV NAMESPACES (optional - for caching)
+# ============================================================================
+
+# [[kv_namespaces]]
+# binding = "CACHE"
+# id = "YOUR_KV_NAMESPACE_ID"
+
+# ============================================================================
+# ENVIRONMENT VARIABLES
+# ============================================================================
+
+[vars]
+ENVIRONMENT = "production"
+VERSION = "1.0.0"
+
+# ============================================================================
+# DEVELOPMENT ENVIRONMENT
+# ============================================================================
+
+[env.development]
+name = "theophysics-validator-dev"
+vars = { ENVIRONMENT = "development" }
+
+# ============================================================================
+# STAGING ENVIRONMENT
+# ============================================================================
+
+[env.staging]
+name = "theophysics-validator-staging"
+vars = { ENVIRONMENT = "staging" }
+
+# ============================================================================
+# BUILD CONFIGURATION
+# ============================================================================
+
+[build]
+command = ""  # No build step needed for plain JS
+
+[build.upload]
+format = "service-worker"
+
+# ============================================================================
+# OBSERVABILITY
+# ============================================================================
+
+[observability]
+enabled = true

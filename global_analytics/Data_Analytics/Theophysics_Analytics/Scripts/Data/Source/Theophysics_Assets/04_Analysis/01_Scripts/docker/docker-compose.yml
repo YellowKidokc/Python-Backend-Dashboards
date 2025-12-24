@@ -1,0 +1,24 @@
+version: '3.9'
+services:
+  db:
+    image: ankane/pgvector
+    container_name: theophysics_db
+    environment:
+      POSTGRES_DB: breakthrough
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports: ["5432:5432"]
+    volumes: [ "./pgdata:/var/lib/postgresql/data" ]
+
+  api:
+    image: python:3.11-slim
+    container_name: theophysics_api
+    working_dir: /app
+    volumes: [ "../../:/app" ]
+    command: bash -lc "pip install fastapi uvicorn requests && python 01_Scripts/api_server.py"
+    environment:
+      - AI_PROVIDER=stub
+      - OPENAI_API_KEY=
+      - ANTHROPIC_API_KEY=
+    ports: ["8001:8001"]
+    depends_on: [db]

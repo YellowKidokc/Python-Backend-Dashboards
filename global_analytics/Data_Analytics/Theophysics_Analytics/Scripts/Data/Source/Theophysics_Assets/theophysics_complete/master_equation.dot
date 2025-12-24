@@ -1,0 +1,50 @@
+digraph MasterEquation {
+    rankdir=LR;
+    node [shape=box, style=rounded];
+    
+    // Laws
+    L1 [label="L1\nGravitation \n↔\n Sin’s Pull", fillcolor=lightblue, style=filled];
+    L2 [label="L2\nStrong Nuclear \n↔\n Divine Unity", fillcolor=lightblue, style=filled];
+    L3 [label="L3\nElectromagnetism \n↔\n Truth", fillcolor=lightblue, style=filled];
+    L4 [label="L4\nWeak Nuclear \n↔\n Transformation", fillcolor=lightblue, style=filled];
+    L5 [label="L5\nEntropy \n↔\n Decay", fillcolor=lightblue, style=filled];
+    L6 [label="L6\nWave–Particle \n↔\n Divine Complexity", fillcolor=lightblue, style=filled];
+    L7 [label="L7\nRelativity \n↔\n Eternal Perspective", fillcolor=lightblue, style=filled];
+    L8 [label="L8\nEntanglement \n↔\n Communion", fillcolor=lightblue, style=filled];
+    L9 [label="L9\nUncertainty \n↔\n Free Will", fillcolor=lightblue, style=filled];
+    L10 [label="L10\nUnified Theory \n↔\n Logos", fillcolor=lightblue, style=filled];
+
+    // Law relationships
+    L1 -> L5 [label="implies", color=purple];
+    L3 -> L10 [label="supports", color=purple];
+    L4 -> L9 [label="mediates", color=purple];
+    L8 -> L10 [label="lifts", color=purple];
+
+    // Variables (subgraph)
+    subgraph cluster_vars {
+        label="Variables (χ components)";
+        style=dashed;
+        G [label="G\nGrace", fillcolor=lightyellow, style=filled, shape=ellipse];
+        M [label="M\nMotion", fillcolor=lightyellow, style=filled, shape=ellipse];
+        E [label="E\nEnergy", fillcolor=lightyellow, style=filled, shape=ellipse];
+        S [label="S\nEntropy", fillcolor=lightyellow, style=filled, shape=ellipse];
+        T [label="T\nTime", fillcolor=lightyellow, style=filled, shape=ellipse];
+        K [label="K\nKnowledge", fillcolor=lightyellow, style=filled, shape=ellipse];
+        R [label="R\nResurrection", fillcolor=lightyellow, style=filled, shape=ellipse];
+        Q [label="Q\nQuantum", fillcolor=lightyellow, style=filled, shape=ellipse];
+        F [label="F\nFaith", fillcolor=lightyellow, style=filled, shape=ellipse];
+        C [label="C\nConsciousness", fillcolor=lightyellow, style=filled, shape=ellipse];
+    }
+
+    // Law-Variable connections
+    L1 -> S [label="driver\n0.9", color=green, style=dashed];
+    L1 -> G [label="counter\n0.7", color=green, style=dashed];
+    L2 -> M [label="driver\n0.85", color=green, style=dashed];
+    L2 -> K [label="lock\n0.6", color=green, style=dashed];
+    L3 -> E [label="carrier\n0.95", color=green, style=dashed];
+    L3 -> K [label="content\n0.7", color=green, style=dashed];
+    L8 -> C [label="mediator\n0.9", color=green, style=dashed];
+    L8 -> Q [label="mechanism\n0.75", color=green, style=dashed];
+    L10 -> G [label="synth\n0.9", color=green, style=dashed];
+    L10 -> K [label="synth\n0.85", color=green, style=dashed];
+}

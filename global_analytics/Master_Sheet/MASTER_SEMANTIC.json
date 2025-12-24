@@ -1,0 +1,116 @@
+{
+  "generated": "2025-12-01T06:46:00.000000",
+  "description": "Master aggregation of all %%semantic{...}%% blocks from obsidian-epistemic-tagger plugin",
+  "summary": {
+    "total_files_with_semantic": 0,
+    "total_classifications": 0,
+    "classifications_by_type": {
+      "evidence": 0,
+      "assumption": 0,
+      "claim": 0,
+      "theory": 0,
+      "method": 0
+    },
+    "average_confidence": 0,
+    "files_with_errors": 0
+  },
+  "semantic_format": {
+    "description": "The obsidian-epistemic-tagger plugin uses hidden comment blocks to store classification metadata",
+    "syntax": "%%semantic{...JSON...}%%",
+    "placement": "End of markdown file",
+    "visibility": "Hidden in Reading Mode, visible in Edit/Source Mode",
+    "structure": {
+      "classifications": [
+        {
+          "id": "uuid-string",
+          "text": "the selected/classified text",
+          "type": "evidence|assumption|claim|theory|method",
+          "confidence": "0.0-1.0",
+          "timestamp": "ISO-8601",
+          "user": "username",
+          "aiAssisted": "true|false",
+          "sourceFile": "filename.md",
+          "context": "surrounding text for reference",
+          "tags": ["optional", "tags"]
+        }
+      ],
+      "version": "1.0",
+      "lastModified": "ISO-8601"
+    }
+  },
+  "classification_types": {
+    "evidence": {
+      "description": "Empirical data, experimental results, observations that support or refute claims",
+      "color": "green",
+      "icon": "checkmark",
+      "examples": [
+        "The delayed-choice experiment confirms retrocausality",
+        "Global Consciousness Project data shows p < 10⁻⁷",
+        "Quantum Zeno effect measured by Itano et al."
+      ]
+    },
+    "assumption": {
+      "description": "Premises taken as true without proof, foundational beliefs",
+      "color": "yellow",
+      "icon": "question",
+      "examples": [
+        "Consciousness is fundamental rather than emergent",
+        "The universe is participatory",
+        "Information cannot be destroyed"
+      ]
+    },
+    "claim": {
+      "description": "Assertions made that require evidence or argument",
+      "color": "blue",
+      "icon": "flag",
+      "examples": [
+        "The Logos Field unifies GR and QM",
+        "Christianity uniquely satisfies all 8 boundary conditions",
+        "Grace reverses entropy"
+      ]
+    },
+    "theory": {
+      "description": "Comprehensive explanatory frameworks",
+      "color": "purple",
+      "icon": "lightbulb",
+      "examples": [
+        "The Logos Field (χ) theory",
+        "The Witness Field (Φ) mechanism",
+        "The Grace Function dynamics"
+      ]
+    },
+    "method": {
+      "description": "Approaches, techniques, procedures used",
+      "color": "orange",
+      "icon": "gear",
+      "examples": [
+        "Boundary condition analysis",
+        "Physics-theology isomorphism mapping",
+        "Information-theoretic normalization"
+      ]
+    }
+  },
+  "integration_with_vault": {
+    "how_it_works": [
+      "1. User selects text in Obsidian",
+      "2. Right-click → 'Classify Selection As...' → select type",
+      "3. Plugin highlights text with ==markers==",
+      "4. Plugin appends classification to %%semantic{...}%% block at end of file",
+      "5. PostgreSQL updated if sync enabled",
+      "6. This master sheet aggregates ALL such blocks across vault"
+    ],
+    "scanner_behavior": [
+      "Scans all .md files in vault",
+      "Extracts %%semantic{...}%% blocks using regex",
+      "Parses JSON inside blocks",
+      "Aggregates classifications by type, file, confidence",
+      "Generates this master sheet"
+    ]
+  },
+  "classifications_by_type": {},
+  "classifications_by_file": {},
+  "all_classifications": [],
+  "semantic_blocks": [],
+  "awaiting_data": true,
+  "instructions": "This master sheet will populate automatically once notes are classified using the obsidian-epistemic-tagger plugin. To classify text: 1) Select text in Obsidian, 2) Right-click → Classify As, 3) Choose type (evidence/assumption/claim/theory/method). Run 'python theophysics_axiom_builder.py --scan-semantic' to refresh this sheet."
+}

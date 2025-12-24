@@ -1,0 +1,112 @@
+{
+    "base_profile_source": "THE CONSCIOUSNESS AXIOMS All.md",
+    "target_profile_source": "Paper-1-The-Logos-Principle-CANONICAL.md",
+    "correlations": [
+        {
+            "target_item_name": "Law 1: The Law of Attraction (Sin & Gravity)",
+            "target_item_header": "### Law 1: The Law of Attraction (Sin & Gravity)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Einstein",
+                "Newton"
+            ]
+        },
+        {
+            "target_item_name": "Law 2: The Law of Motion (Momentum & Intention)",
+            "target_item_header": "### Law 2: The Law of Motion (Momentum & Intention)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Newton"
+            ]
+        },
+        {
+            "target_item_name": "Law 3: The Law of Energy Conservation (Transformation & Eternity)",
+            "target_item_header": "### Law 3: The Law of Energy Conservation (Transformation & Eternity)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Thermodynamics"
+            ]
+        },
+        {
+            "target_item_name": "Law 4: The Law of Decay (Entropy & Restoration)",
+            "target_item_header": "### Law 4: The Law of Decay (Entropy & Restoration)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Entropy"
+            ]
+        },
+        {
+            "target_item_name": "Law 5: The Law of Illumination (Truth & Light)",
+            "target_item_header": "### Law 5: The Law of Illumination (Truth & Light)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": []
+        },
+        {
+            "target_item_name": "Law 6: The Law of Cause & Effect (Sowing & Reaping)",
+            "target_item_header": "### Law 6: The Law of Cause & Effect (Sowing & Reaping)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Newton"
+            ]
+        },
+        {
+            "target_item_name": "Law 7: The Law of Perspective (Eternity & Relativity)",
+            "target_item_header": "### Law 7: The Law of Perspective (Eternity & Relativity)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": []
+        },
+        {
+            "target_item_name": "Law 8: The Law of Mystery (Free Will & The Uncertainty Principle)",
+            "target_item_header": "### Law 8: The Law of Mystery (Free Will & The Uncertainty Principle)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Heisenberg"
+            ]
+        },
+        {
+            "target_item_name": "Law 9: The Law of Unity (The Body & Entanglement)",
+            "target_item_header": "### Law 9: The Law of Unity (The Body & Entanglement)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Entanglement"
+            ]
+        },
+        {
+            "target_item_name": "Law 10: The Law of Conscious Observation (Prayer & Creation)",
+            "target_item_header": "### Law 10: The Law of Conscious Observation (Prayer & Creation)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": []
+        },
+        {
+            "target_item_name": "Law 11: The Law of Unification (The Logos & The Theory of Everything)",
+            "target_item_header": "### Law 11: The Law of Unification (The Logos & The Theory of Everything)",
+            "top_matching_base_item_name": "None",
+            "top_matching_base_item_header": "None",
+            "coherence_score": 0,
+            "shared_terms": [
+                "Logos Field"
+            ]
+        }
+    ],
+    "average_coherence_score": 0.0
+}

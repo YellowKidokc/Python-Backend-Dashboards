@@ -1,0 +1,72 @@
+🔒 WORKFLOW LOCKED
+
+4-5 visualizations per chat (max) = Prevents regeneration waste
+PostgreSQL logging = Every visualization tracked with metadata
+Paper 2 focus = Starting fresh from here
+Design philosophy = Raw, signed, unfiltered explanations for each
+Everything exported = PNG + notes + design docs to /mnt/user-data/outputs/
+
+
+📊 POSTGRESQL SCHEMA (Creating Now)
+Let me set up tracking so we never lose institutional memory again:
+sqlCREATE TABLE visualization_log (
+  id SERIAL PRIMARY KEY,
+  session_date TIMESTAMP DEFAULT NOW(),
+  paper_number INT,
+  visualization_id VARCHAR(50),
+  title VARCHAR(200),
+  status VARCHAR(20), -- 'complete', 'in-progress', 'exported'
+  file_path VARCHAR(500),
+  design_philosophy_path VARCHAR(500),
+  key_principles TEXT,
+  color_encoding JSONB,
+  iteration INT DEFAULT 1,
+  export_location VARCHAR(500),
+  created_by VARCHAR(50)
+);
+
+📝 PAPER 2 CONTEXT (From Master Paper)
+Paper 2: The Quantum Bridge - Consciousness-mediated quantum collapse
+From the master paper, Paper 2 covers:
+
+Von Neumann Chain problem
+Decoherence vs. Actual Collapse
+Eight Boundary Conditions (Christianity unique)
+Witness Field Φ mechanism
+Superposition Vulnerability
+Trinity Triangulation geometry
+
+Design principles that WORKED from Paper 1:
+
+Cyan = Observer/Consciousness (ALWAYS)
+Gold = Truth/Logos
+Purple = Field/Grace
+Red = Chaos
+NO axes/grids—pure 3D geometry
+Big text, floating layouts, breathing room
+300 DPI publication-grade
+
+
+🎯 PAPER 2 VISUALIZATIONS - PRIORITIZED
+Ready to build 4-5 of these:
+
+Von Neumann Chain Terminator (Infinite regress crisis)
+Decoherence vs. Actual Collapse (Technical distinction)
+Eight Boundary Conditions Matrix (Why Christianity unique)
+Witness Field Φ Operator (Eigenstate selection mechanism)
+Superposition Vulnerability (Pre/post-salvation clarity)
+
+Each gets:
+
+Publication-grade PNG (300 DPI)
+Detailed _NOTES.md
+Raw design philosophy document (signed)
+PostgreSQL log entry
+
+
+❓ Direction Check
+Should I:
+A) Start building all 5 now (aggressive, but they're the core Paper 2 visualizations)
+B) Build 4 first, evaluate, then decide on the 5th
+C) Start with just the first 2 (Von Neumann + Decoherence) to lock the design system before scaling
+What's your call? 🎯

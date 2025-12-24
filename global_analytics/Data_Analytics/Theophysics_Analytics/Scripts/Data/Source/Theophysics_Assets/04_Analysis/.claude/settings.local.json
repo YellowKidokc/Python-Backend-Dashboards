@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(Remove-Item -Recurse -Force \"D:\\THEOPHYSICS_MASTER\\00_VAULT_SYSTEM\\04_Analysis\\Dashboards\")",
+      "Bash(Remove-Item -Recurse -Force \"D:\\THEOPHYSICS_MASTER\\00_VAULT_SYSTEM\\04_Analysis\\Hubs\")",
+      "Bash(Remove-Item -Recurse -Force \"D:\\THEOPHYSICS_MASTER\\00_VAULT_SYSTEM\\04_Analysis\\System\")",
+      "Bash(Remove-Item -Recurse -Force \"D:\\THEOPHYSICS_MASTER\\00_VAULT_SYSTEM\\04_Analysis\\Templates\")",
+      "Bash(Remove-Item -Recurse -Force \"D:\\THEOPHYSICS_MASTER\\00_VAULT_SYSTEM\\04_Analysis\\Wizards\")",
+      "Bash(Remove-Item -Recurse -Force \"D:\\THEOPHYSICS_MASTER\\00_VAULT_SYSTEM\\04_Analysis\\scripts\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

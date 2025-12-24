@@ -1,0 +1,30 @@
+[
+    {
+        "number": 1,
+        "name": "Observation Precedes Actualization",
+        "header": "**AXIOM 1** ([[Axiom-1-Observation|Observation Precedes Actualization]]):",
+        "content": "For any quantum state |ψ⟩, actualization requires witness coupling:\n\n$$|\\psi\\rangle_{\\text{potential}} \\xrightarrow{\\Phi} |\\psi\\rangle_{\\text{actual}}$$\n\nWithout Φ, superposition persists indefinitely.\n\n**Prediction:** [[Quantum-Zeno-Effect|Quantum Zeno effect]] should correlate with observer attention. Continuous observation freezes state evolution.",
+        "key_concepts": []
+    },
+    {
+        "number": 2,
+        "name": "Consciousness Has Mechanism",
+        "header": "**AXIOM 2** ([[Axiom-2-Mechanism|Consciousness Has Mechanism]]):",
+        "content": "The [[Hard-Problem|hard problem]] asks: \"Why does consciousness feel like something?\"\n\n**Answer:** Wrong question. That's like asking \"Why does blue look blue?\" - it's axiomatically primitive.\n\n**Right question:** \"What is the functional role of consciousness in physics?\"\n\n**Answer:** Φ provides the **selective pressure** that actualizes specific outcomes from superposition.\n\nThink of it as [[Wavefunction-Antenna|antenna tuning]]:\n\n- Quantum state = full radio spectrum\n- Observation = tuning to specific frequency\n- Consciousness = the tuner\n\n**The feeling of qualia IS the coupling to specific information states.**",
+        "key_concepts": []
+    },
+    {
+        "number": 3,
+        "name": "Consciousness Is Nonlocal",
+        "header": "**AXIOM 3** ([[Axiom-3-Nonlocal|Consciousness Is Nonlocal]]):",
+        "content": "Brain damage impairs consciousness **interface**, not consciousness itself.\n\n**Analogy:** Smash a radio → music stops. But you didn't destroy the radio station.\n\n**Formalism:**\n\n$$\\Phi(x,t) \\neq f(\\text{brain state})$$\n\nΦ is a field that **couples to** brain states but doesn't **reduce to** them.\n\n**Evidence:**\n\n- [[Near-Death-Experience|Near-death experiences]] report consciousness during flat EEG\n- [[Terminal-Lucidity|Terminal lucidity]] - dementia patients gaining clarity before death\n- [[Psi-Phenomena|Psi phenomena]] (if replicable) suggest nonlocal consciousness access\n\n**Testable:** If consciousness = brain activity, no reports should exist during clinical death. If consciousness is nonlocal field, reports possible during temporary brain shutdown.",
+        "key_concepts": []
+    },
+    {
+        "number": 4,
+        "name": "Experimentally Testable",
+        "header": "**AXIOM 4** ([[Axiom-4-Testable|Experimentally Testable]]):",
+        "content": "**PREDICTION:** Observer intention affects [[Quantum-Decoherence|decoherence time]] τ_D:\n\n$$\\tau_D(\\text{high attention}) > \\tau_D(\\text{low attention})$$\n\n**Protocol:**\n\n- Use quantum systems with measurable decoherence (e.g., [[Superconducting-Qubit|superconducting qubits]])\n- Test with meditators (trained attention control)\n- Measure τ_D during focused observation vs. passive monitoring\n\n**Falsification:** If τ_D shows no correlation with observer state (r < 0.3, p > 0.05), Axiom 4 fails.\n\n**Why this matters:** This is the [[Consciousness-Measurement|first testable prediction]] distinguishing \"consciousness causes collapse\" from \"consciousness correlates with collapse.\"",
+        "key_concepts": []
+    }
+]

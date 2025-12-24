@@ -1,0 +1,564 @@
+last_updated: '2025-11-29T11:14:24.705921'
+papers:
+  P01:
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Figure 1
+    filename: P01_Fig10_Observer_Creates_Reality.png
+    new_filename: P01-Logos-Principle-Fig01-The-Observer-Creates-Reality.png
+    path: _Assets/Images/P01_Fig10_Observer_Creates_Reality.png
+    description: ''
+    context: ''
+    used: true
+    chart_script: null
+    alt_text: The Observer Creates Reality
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01-01_information_substrate.png
+    new_filename: ''
+    path: _Assets/Images/P01-01_information_substrate.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig01_Compression_Chaos.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig01_Compression_Chaos.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig04_Law_Gravity_Grace.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig04_Law_Gravity_Grace.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig05_Law_Observer.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig05_Law_Observer.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig06_Law_Incarnation.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig06_Law_Incarnation.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig07_Entanglement.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig07_Entanglement.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig08_Full_Spectrum.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig08_Full_Spectrum.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig09_Information_Foundation.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig09_Information_Foundation.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig11_Participatory_Universe.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig11_Participatory_Universe.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig12_Self_Referential.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig12_Self_Referential.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig13_Shared_Reality.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig13_Shared_Reality.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig14_Spacetime_Curvature.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig14_Spacetime_Curvature.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig15_Superposition.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig15_Superposition.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig16_Three_Stage_Collapse.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig16_Three_Stage_Collapse.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig17_Universe_Compressed_Code.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig17_Universe_Compressed_Code.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig18_Vapor_To_Ice_Analogy.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig18_Vapor_To_Ice_Analogy.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig19_Zero_Divergence.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig19_Zero_Divergence.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig20_Axiom1_Field_Informational.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig20_Axiom1_Field_Informational.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig21_Axiom2_Field_Self_Referential.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig21_Axiom2_Field_Self_Referential.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig22_Axiom3_Field_Ordered.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig22_Axiom3_Field_Ordered.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig23_Coherence_Functional.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig23_Coherence_Functional.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig24_Complete_Spectrum.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig24_Complete_Spectrum.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig25_Entanglement_Field_Correlation.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig25_Entanglement_Field_Correlation.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig26_GR_vs_QM_Chart.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig26_GR_vs_QM_Chart.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig27_Great_Schism.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig27_Great_Schism.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig28_Great_Schism_Slide.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig28_Great_Schism_Slide.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig29_Information_Substrate.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig29_Information_Substrate.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig30_Information_Substrate_Alt.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig30_Information_Substrate_Alt.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig31_Observer_Creates_Reality_Slide.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig31_Observer_Creates_Reality_Slide.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig32_Participatory_Universe_Simple.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig32_Participatory_Universe_Simple.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig33_Self_Referential_Alt.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig33_Self_Referential_Alt.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig34_Shared_Reality_Multiple_Observers.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig34_Shared_Reality_Multiple_Observers.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig36_Spacetime_Curvature_Geometry.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig36_Spacetime_Curvature_Geometry.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig37_Superposition_One_Truth.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig37_Superposition_One_Truth.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig38_Three_Stage_Observation.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig38_Three_Stage_Observation.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig39_Universe_Compressed_Code_Slide.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig39_Universe_Compressed_Code_Slide.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig41_Vapor_Ice_Analogy_Slide.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig41_Vapor_Ice_Analogy_Slide.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig42_Von_Neumann_Chain.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig42_Von_Neumann_Chain.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig43_Wave_Collapse_Mechanism.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig43_Wave_Collapse_Mechanism.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig45_Information_Substrate_v2.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig45_Information_Substrate_v2.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig46_Great_Schism_v2.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig46_Great_Schism_v2.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig47_Soul_Quantum_Field.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig47_Soul_Quantum_Field.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig48_Spiritual_Warfare_Physics.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig48_Spiritual_Warfare_Physics.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig49_Quantum_Collapse_Funnel.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig49_Quantum_Collapse_Funnel.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig51_Shared_Reality_Convergence.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig51_Shared_Reality_Convergence.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig53_Universe_Compression.png
+    new_filename: ''
+    path: _Assets/Images/P01_Fig53_Universe_Compression.png
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig03_GR_vs_QM.svg
+    new_filename: ''
+    path: _Assets/Images/P01_Fig03_GR_vs_QM.svg
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig50_Quantum_Collapse_Funnel.svg
+    new_filename: ''
+    path: _Assets/Images/P01_Fig50_Quantum_Collapse_Funnel.svg
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig52_Shared_Reality_Convergence.svg
+    new_filename: ''
+    path: _Assets/Images/P01_Fig52_Shared_Reality_Convergence.svg
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''
+  - paper_id: P01
+    paper_name: Logos-Principle
+    figure_number: Unused
+    filename: P01_Fig54_Universe_Compression.svg
+    new_filename: ''
+    path: _Assets/Images/P01_Fig54_Universe_Compression.svg
+    description: Unused image
+    context: ''
+    used: false
+    chart_script: null
+    alt_text: ''

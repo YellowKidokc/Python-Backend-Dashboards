@@ -1,0 +1,1 @@
+I've confirmed that I wrote the Python and batch scripts for the proof-of-concept and for the two Theophysics analyses, generating them from scratch, and also modifying the original `analyze_coherence.py` in the PoC.

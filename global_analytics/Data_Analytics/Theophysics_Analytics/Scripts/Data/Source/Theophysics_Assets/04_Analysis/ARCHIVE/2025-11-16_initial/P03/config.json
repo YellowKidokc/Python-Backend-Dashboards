@@ -1,0 +1,37 @@
+{
+  "analysis_parameters": {
+    "breakthrough_detection": {
+      "integration_order_min": 3,
+      "novelty_score_min": 0.7,
+      "domains_required": 3
+    },
+    "coherence_weights": {
+      "cross_reference_weight": 0.30,
+      "concept_coverage_weight": 0.40,
+      "term_consistency_weight": 0.30
+    },
+    "network_analysis": {
+      "max_connection_depth": 3,
+      "cluster_threshold": 5,
+      "show_weak_links": true,
+      "word_proximity_window": 30
+    },
+    "tag_exploration": {
+      "proximity_window": 30,
+      "min_cooccurrence": 2,
+      "follow_chains": true,
+      "max_chain_depth": 5
+    }
+  },
+  "core_concepts": [
+    "χ", "coherence", "grace", "entropy", "consciousness",
+    "Master Equation", "Logos", "collapse", "observer",
+    "quantum", "spacetime", "information", "sin", "soul",
+    "faith", "resurrection", "decoherence", "entanglement"
+  ],
+  "core_tags": [
+    "grace", "sin", "entropy", "consciousness", "quantum",
+    "relativity", "information", "theology", "physics",
+    "observer", "collapse", "coherence", "soul", "faith"
+  ]
+}

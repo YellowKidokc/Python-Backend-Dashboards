@@ -1,0 +1,16 @@
+{
+  "generated": "2025-12-01T06:31:35.783744",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "phrase": "consciousness",
+      "uuid": "TP-D-0c3005ab",
+      "file": "consciousness.md"
+    },
+    {
+      "phrase": "Hard Problem of Consciousness",
+      "uuid": "TP-D-1a4f05f6",
+      "file": "Hard Problem of Consciousness.md"
+    }
+  ]
+}

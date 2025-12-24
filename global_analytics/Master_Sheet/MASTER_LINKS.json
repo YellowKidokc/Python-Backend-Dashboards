@@ -1,0 +1,515 @@
+{
+  "generated": "2025-12-01T06:31:35.781634",
+  "internal_links": {
+    "total": 62,
+    "links": {
+      "<insert subquestion>": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "<next question>": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "<page link>": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "<parent question>": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "<root question>": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "ARCHIVE/References/00-Series-Index": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Consciousness": {
+        "count": 1,
+        "sources": [
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "Experiments#Dorothy-Protocol": {
+        "count": 3,
+        "sources": [
+          "FOR_AI_DEVELOPER_START_HERE.md",
+          "FOR_AI_DEVELOPER_START_HERE.md",
+          "OBSIDIAN_PLUGIN_SPECIFICATION.md"
+        ]
+      },
+      "Fact 1": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Fact 2": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Fact 3": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Free Will": {
+        "count": 1,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md"
+        ]
+      },
+      "Hard Problem of Consciousness": {
+        "count": 1,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md"
+        ]
+      },
+      "Insight 1": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "LGS-PC01-entanglement-correlation-14-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "LGS-PC01-information-foundation-04-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "LGS-PC01-observer-creates-reality-3d-05-17.png": {
+        "count": 2,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "LGS-PC01-self-referential-06-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Measurement Problem": {
+        "count": 1,
+        "sources": [
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "Observer": {
+        "count": 2,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md",
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "Observer Effect": {
+        "count": 2,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md",
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "P01_Fig08_Full_Spectrum": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "P01_Fig14_Spacetime_Curvature": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Page 1": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Page 2": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Page X": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Page Y": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Paper-01-The-Logos-Principle": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-02-The-Quantum-Bridge": {
+        "count": 7,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-03-The-Algorithm-of-Reality": {
+        "count": 9,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-04-The-Syzygy-Principle": {
+        "count": 6,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-05#Section-3-2": {
+        "count": 3,
+        "sources": [
+          "FOR_AI_DEVELOPER_START_HERE.md",
+          "FOR_AI_DEVELOPER_START_HERE.md",
+          "OBSIDIAN_PLUGIN_SPECIFICATION.md"
+        ]
+      },
+      "Paper-05-Soul-Observer": {
+        "count": 6,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-06-Physics-Principalities": {
+        "count": 7,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-07-The-Grace-Function": {
+        "count": 4,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-08-The-Stretched-Out-Heavens": {
+        "count": 3,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-09-The-Moral-Universe": {
+        "count": 7,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-10-Creatio-Ex-Silico": {
+        "count": 2,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-11-Protocols-for-Validation": {
+        "count": 3,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-11-The-Cosmological-Logos": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-12-The-Decalogue-of-the-Cosmos": {
+        "count": 4,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Paper-12-The-Omega-Point": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Qualia": {
+        "count": 2,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md",
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "Self-Awareness": {
+        "count": 1,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md"
+        ]
+      },
+      "Sub-question 2": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "SubQ1": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "SubQ2": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "SubQ3": {
+        "count": 1,
+        "sources": [
+          "OBSIDIAN_RESEARCH_WORKFLOW_TEMPLATE.md"
+        ]
+      },
+      "Theophysics_Glossary#General Relativity": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Theophysics_Glossary#Logos field": {
+        "count": 45,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Theophysics_Glossary#Master Equation": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Theophysics_Glossary#Quantum Mechanics": {
+        "count": 5,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "Trinity Actualization": {
+        "count": 1,
+        "sources": [
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "View": {
+        "count": 8,
+        "sources": [
+          "02_LIBRARY\\Glossary\\#${link}.md",
+          "02_LIBRARY\\Glossary\\#1-introduction-the-epistemology-of-observation-in-dynamic-systems.md",
+          "02_LIBRARY\\Glossary\\#1-introduction-the-unsolved-paradox.md",
+          "02_LIBRARY\\Glossary\\#1. Sample Tags & YAML Samples.md",
+          "02_LIBRARY\\Glossary\\#10-mathematical-architecture.md"
+        ]
+      },
+      "Witness Field": {
+        "count": 2,
+        "sources": [
+          "02_LIBRARY\\Glossary\\consciousness.md",
+          "02_LIBRARY\\Glossary\\Hard Problem of Consciousness.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-full-spectrum-15-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-shared-reality-13-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-spacetime-curvature-09-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-superposition-truth-10-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-three-stage-collapse-12-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-vapor-ice-analogy-08-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "_Assets/Images/LGS-PC01-zero-divergence-07-17.png": {
+        "count": 1,
+        "sources": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      }
+    }
+  },
+  "external_links": {
+    "total_domains": 9,
+    "domains": {
+      "plato.stanford.edu": {
+        "count": 168,
+        "files": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "en.wikipedia.org": {
+        "count": 92,
+        "files": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "claude.ai": {
+        "count": 41,
+        "files": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "arxiv.org": {
+        "count": 24,
+        "files": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "iep.utm.edu": {
+        "count": 4,
+        "files": [
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md",
+          "22_COPILOT\\copilot-conversations\\title_The_Logos_Principle_A_Participatory_Framework_for_Unifying@20251201_051245.md"
+        ]
+      },
+      "github.com": {
+        "count": 2,
+        "files": [
+          "FOR_AI_DEVELOPER_START_HERE.md",
+          "FOR_AI_DEVELOPER_START_HERE.md"
+        ]
+      },
+      "docs.obsidian.md": {
+        "count": 1,
+        "files": [
+          "FOR_AI_DEVELOPER_START_HERE.md"
+        ]
+      },
+      "node-postgres.com": {
+        "count": 1,
+        "files": [
+          "FOR_AI_DEVELOPER_START_HERE.md"
+        ]
+      },
+      "localhost:5000`": {
+        "count": 1,
+        "files": [
+          "FOR_AI_DEVELOPER_START_HERE.md"
+        ]
+      }
+    }
+  }
+}

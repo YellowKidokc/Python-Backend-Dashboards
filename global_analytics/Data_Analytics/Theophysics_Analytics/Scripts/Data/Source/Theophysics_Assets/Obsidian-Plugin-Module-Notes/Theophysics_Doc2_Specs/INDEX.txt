@@ -1,0 +1,3 @@
+Theophysics Semantic Research Engine
+Document 2: Prompt Specification Sheet (Index)
+Modules listed with placeholders; detailed content will follow.

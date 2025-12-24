@@ -1,0 +1,72 @@
+{
+    "base_profile": "THE CONSCIOUSNESS AXIOMS All_axioms.json",
+    "target_profile": "Paper-1-The-Logos-Principle-CANONICAL_axioms.json",
+    "axiom_correlations": [
+        {
+            "target_axiom": "Axiom 1: Law 1: The Law of Attraction (Sin & Gravity)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 2: Law 2: The Law of Motion (Momentum & Intention)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 3: Law 3: The Law of Energy Conservation (Transformation & Eternity)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 4: Law 4: The Law of Decay (Entropy & Restoration)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 5: Law 5: The Law of Illumination (Truth & Light)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 6: Law 6: The Law of Cause & Effect (Sowing & Reaping)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 7: Law 7: The Law of Perspective (Eternity & Relativity)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 8: Law 8: The Law of Mystery (Free Will & The Uncertainty Principle)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 9: Law 9: The Law of Unity (The Body & Entanglement)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 10: Law 10: The Law of Conscious Observation (Prayer & Creation)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_axiom": "Axiom 11: Law 11: The Law of Unification (The Logos & The Theory of Everything)",
+            "top_matching_base_axiom": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "base_profile": "THE CONSCIOUSNESS AXIOMS All_profile.json",
+    "target_profile": "Paper-1-The-Logos-Principle-CANONICAL_profile.json",
+    "correlations": [
+        {
+            "target_item": "### Law 1: The Law of Attraction (Sin & Gravity)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 2: The Law of Motion (Momentum & Intention)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 3: The Law of Energy Conservation (Transformation & Eternity)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 4: The Law of Decay (Entropy & Restoration)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 5: The Law of Illumination (Truth & Light)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 6: The Law of Cause & Effect (Sowing & Reaping)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 7: The Law of Perspective (Eternity & Relativity)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 8: The Law of Mystery (Free Will & The Uncertainty Principle)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 9: The Law of Unity (The Body & Entanglement)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 10: The Law of Conscious Observation (Prayer & Creation)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        },
+        {
+            "target_item": "### Law 11: The Law of Unification (The Logos & The Theory of Everything)",
+            "top_matching_base_item": "None",
+            "overlap_score": 0,
+            "shared_concepts": []
+        }
+    ],
+    "average_coherence_score": 0
+}

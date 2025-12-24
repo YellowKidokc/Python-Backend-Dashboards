@@ -1,0 +1,60 @@
+# Stats System Configuration
+# This file defines global vs local instances and what to scan
+
+instance:
+  # Type: "global" or "local"
+  type: "global"
+  
+  # Instance name (for tracking)
+  name: "THEOPHYSICS_MASTER"
+  
+  # Path to global instance (if this is local)
+  # Leave empty for global instance
+  global_path: ""
+
+scanning:
+  # Folders to include (relative to vault root)
+  include_folders:
+    - "03_PUBLICATIONS/COMPLETE_LOGOS_PAPERS_FINAL"
+    - "02_LIBRARY/Concepts"
+    - "00_CANONICAL"
+  
+  # Patterns to exclude
+  exclude_patterns:
+    - "**/DRAFT/**"
+    - "**/drafts/**"
+    - "**/WIP/**"
+    - "**/temp/**"
+    - "**/backup/**"
+    - "**/_archive/**"
+    - "**/.obsidian/**"
+  
+  # File patterns to scan
+  file_patterns:
+    - "**/*.md"
+  
+  # Recursive scanning?
+  recursive: true
+  
+  # Scan only root of included folders?
+  root_only: false
+
+output:
+  # Where to save stats
+  stats_folder: "Stats"
+  
+  # Subfolders
+  local_folder: "Local"
+  comparisons_folder: "Comparisons"
+  global_folder: "Global"
+
+aggregation:
+  # Enable aggregation to global instance?
+  enabled: false
+  
+  # When to aggregate (manual, auto, scheduled)
+  mode: "manual"
+  
+  # Global instance registry file
+  registry_file: "00_VAULT_SYSTEM/global_instance_registry.yaml"
+

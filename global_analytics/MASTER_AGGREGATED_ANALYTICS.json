@@ -1,0 +1,59 @@
+{
+  "aggregation_date": "2025-12-07T07:29:42.063119",
+  "instances_count": 1,
+  "instances": [
+    "THEOPHYSICS_MASTER"
+  ],
+  "master_sheets": {
+    "Axioms": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Breakthroughs": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Claims": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Definitions": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Evidence": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Mathematics": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "References": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Tags": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Timeline": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    },
+    "Verified Links": {
+      "total_unique_items": 0,
+      "items": [],
+      "duplicate_sources": {}
+    }
+  }
+}

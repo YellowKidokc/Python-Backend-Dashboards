@@ -1,0 +1,46 @@
+{
+  "generated": "2025-12-01T06:31:35.784499",
+  "total_concepts": 10,
+  "concepts": [
+    {
+      "name": "CONCEPT-HIERARCHY-MAP",
+      "file": "CONCEPT-HIERARCHY-MAP.md"
+    },
+    {
+      "name": "DIMENSIONLESS-EQUATIONS-FRAMEWORK",
+      "file": "DIMENSIONLESS-EQUATIONS-FRAMEWORK.md"
+    },
+    {
+      "name": "ENTROPY-DISAMBIGUATION-BOX",
+      "file": "ENTROPY-DISAMBIGUATION-BOX.md"
+    },
+    {
+      "name": "IMAGE-PLACEMENT-SUMMARY",
+      "file": "IMAGE-PLACEMENT-SUMMARY.md"
+    },
+    {
+      "name": "IMPLEMENTATION-SUMMARY",
+      "file": "IMPLEMENTATION-SUMMARY.md"
+    },
+    {
+      "name": "PAPER-11-PRE-REGISTRATION-SPECS",
+      "file": "PAPER-11-PRE-REGISTRATION-SPECS.md"
+    },
+    {
+      "name": "PROLEPTIC-DEFENSE-INSERT",
+      "file": "PROLEPTIC-DEFENSE-INSERT.md"
+    },
+    {
+      "name": "REVIEWER-FIXES-CHECKLIST",
+      "file": "REVIEWER-FIXES-CHECKLIST.md"
+    },
+    {
+      "name": "SESSION-ACCOMPLISHMENTS",
+      "file": "SESSION-ACCOMPLISHMENTS.md"
+    },
+    {
+      "name": "STYLE-CLEANUP-GUIDE",
+      "file": "STYLE-CLEANUP-GUIDE.md"
+    }
+  ]
+}
