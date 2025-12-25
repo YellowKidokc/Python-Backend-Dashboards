@@ -1,55 +1,51 @@
-# Theophysics Backend Dashboards
+# Python-Backend-Dashboards
 
-Analytics engine and dashboard system for the Theophysics research project.
+Theophysics Analytics Backend - Python tools, dashboards, and Obsidian plugin development.
 
-## Structure
+## Repository Structure
 
 ```
-├── global_analytics/           # Analytics data and dashboards
-│   ├── Dashboards/            # Obsidian dashboard templates
-│   ├── Data_Analytics/        # Analytics data files
-│   ├── Master_Sheet/          # Master data (axioms, concepts, definitions)
-│   ├── Reports/               # Generated reports
-│   └── theophysics_analytics/ # Python analytics engine
+├── python_backend/              # Main Python Backend Application
+│   ├── core/                    # Core modules (API manager, query engine, etc.)
+│   ├── ui/                      # PySide6 GUI components
+│   ├── engine/                  # Processing engines
+│   ├── scripts/                 # Utility scripts
+│   ├── data/                    # Data storage (SQLite, cache)
+│   ├── config/                  # Configuration files
+│   ├── templates/               # Query templates
+│   ├── knowledge_base/          # Knowledge base files
+│   ├── main.py                  # Main application entry
+│   ├── api_query_launcher.py    # API Query GUI launcher
+│   └── requirements.txt         # Python dependencies
 │
-├── obsidian-plugin/           # Forked Dashboard Navigator (coming soon)
-│   └── src/                   # TypeScript plugin source
+├── global_analytics/            # Analytics data and dashboards
+│   ├── Dashboards/              # Obsidian dashboard templates
+│   ├── Data_Analytics/          # Analytics data files
+│   ├── Master_Sheet/            # Master data (axioms, concepts, definitions)
+│   ├── Reports/                 # Generated reports
+│   └── theophysics_analytics/   # Python analytics engine
 │
-└── README.md
+└── obsidian-plugin/             # Forked Dashboard Navigator (planned)
 ```
 
-## Components
+## Python Backend Features
 
-### Global Analytics (`global_analytics/`)
+- **API Query Builder** - GUI for building and executing API queries
+- **Academic APIs** - Semantic Scholar, PubMed, arXiv, CrossRef, OpenAlex
+- **HeartMath/HRV Research** - Specialized API presets for coherence research
+- **Job Scheduling** - Save, load, and schedule API query jobs
+- **SQLite Tracking** - Track all API calls and results
+- **Auto-Linker** - Automatic note linking for Obsidian
 
-Contains all analytics data, dashboards, and the Python analytics engine:
-
-- **Dashboards/** - Obsidian markdown dashboards for paper management
-- **Master_Sheet/** - Core data files:
-  - `MASTER_AXIOMS.json` - All axioms (A1, A2, etc.)
-  - `MASTER_CONCEPTS.json` - Concept definitions
-  - `MASTER_DEFINITIONS.json` - Term definitions
-  - `MASTER_SEMANTIC.json` - Semantic markup data
-  - `MASTER_TAGS.json` - Tag taxonomy
-- **theophysics_analytics/** - Python scripts for analysis
-
-### Python Analytics Engine
+## Quick Start
 
 ```bash
-cd global_analytics/theophysics_analytics
+cd python_backend
 pip install -r requirements.txt
-python run_analytics.py
+python api_query_launcher.py   # Launch API Query GUI
+python main.py                 # Launch main application
 ```
-
-### Obsidian Dashboard Plugin (Coming Soon)
-
-Forked from [Dashboard Navigator](https://github.com/drbap/dashboard-navigator-for-obsidian) - will be customized for Theophysics-specific analytics.
 
 ## Related Repositories
 
-- [Python-OBS-backend](https://github.com/YellowKidokc/Python-OBS-backend) - Main PySide6 GUI application
-- [Dashboard Navigator Fork](https://github.com/YellowKidokc/dashboard-navigator-for-obsidian) - Obsidian plugin (to be integrated)
-
-## License
-
-MIT License
+- [Python-OBS-backend](https://github.com/YellowKidokc/Python-OBS-backend) - Original backend deployment
