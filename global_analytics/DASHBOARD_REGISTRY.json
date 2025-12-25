@@ -1,0 +1,230 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-12-25",
+  "description": "Registry of all Theophysics dashboard types and their data requirements",
+
+  "dashboard_categories": {
+    "core_analytics": {
+      "description": "Core paper and content analytics",
+      "dashboards": [
+        {
+          "id": "axioms",
+          "name": "Axioms Dashboard",
+          "data_source": "MASTER_AXIOMS.json",
+          "metrics": ["total_axioms", "by_type", "by_paper", "by_framework"],
+          "charts": ["pie_by_type", "bar_by_paper", "pie_by_framework"]
+        },
+        {
+          "id": "breakthroughs",
+          "name": "Breakthroughs Dashboard",
+          "data_source": "breakthroughs_analysis.json",
+          "metrics": ["total_breakthroughs", "cross_domain_count", "strength_scores"],
+          "charts": ["bar_by_strength", "timeline"]
+        },
+        {
+          "id": "coherence",
+          "name": "Coherence Dashboard",
+          "data_source": "coherence_analysis_results.json",
+          "metrics": ["average_coherence", "per_paper_coherence", "coherence_matrix", "least_coherent_pair"],
+          "charts": ["gauge_overall", "heatmap_matrix", "bar_by_paper"]
+        },
+        {
+          "id": "claims",
+          "name": "Claims Dashboard",
+          "data_source": "MASTER_CLAIMS.json",
+          "metrics": ["total_claims", "verified_count", "pending_count", "by_paper"],
+          "charts": ["pie_status", "bar_by_paper"]
+        },
+        {
+          "id": "definitions",
+          "name": "Definitions Dashboard",
+          "data_source": "MASTER_DEFINITIONS.json",
+          "metrics": ["total_definitions", "by_category", "cross_referenced"],
+          "charts": ["pie_by_category", "network_graph"]
+        },
+        {
+          "id": "evidence",
+          "name": "Evidence Dashboard",
+          "data_source": "MASTER_EVIDENCE.json",
+          "metrics": ["total_evidence", "scientific_citations", "scripture_refs", "strength_scores"],
+          "charts": ["pie_by_type", "bar_by_strength"]
+        },
+        {
+          "id": "mathematics",
+          "name": "Mathematics Dashboard",
+          "data_source": "MASTER_MATHEMATICS.json",
+          "metrics": ["total_equations", "by_domain", "latex_validity"],
+          "charts": ["pie_by_domain", "equation_gallery"]
+        },
+        {
+          "id": "tags",
+          "name": "Tags Dashboard",
+          "data_source": "MASTER_TAGS.json",
+          "metrics": ["total_unique_tags", "tag_frequency", "by_paper"],
+          "charts": ["word_cloud", "bar_frequency"]
+        },
+        {
+          "id": "references",
+          "name": "References Dashboard",
+          "data_source": "MASTER_REFERENCES.json",
+          "metrics": ["total_references", "internal_links", "external_links", "broken_links"],
+          "charts": ["pie_by_type", "network_graph"]
+        },
+        {
+          "id": "links",
+          "name": "Links Dashboard",
+          "data_source": "MASTER_LINKS.json",
+          "metrics": ["total_links", "bidirectional", "orphaned", "most_linked"],
+          "charts": ["network_graph", "bar_most_linked"]
+        },
+        {
+          "id": "timeline",
+          "name": "Timeline Dashboard",
+          "data_source": "MASTER_TIMELINE.json",
+          "metrics": ["events_count", "by_era", "key_dates"],
+          "charts": ["timeline_viz", "bar_by_era"]
+        }
+      ]
+    },
+
+    "paper_management": {
+      "description": "Per-paper and multi-paper analytics",
+      "dashboards": [
+        {
+          "id": "logos_papers",
+          "name": "Logos Papers Dashboard",
+          "data_source": "papers_analysis.json",
+          "metrics": ["papers_P1_P12", "completion_status", "word_counts", "cross_refs"],
+          "charts": ["progress_grid", "bar_word_count", "heatmap_crossref"]
+        },
+        {
+          "id": "paper_comparison",
+          "name": "Paper Comparison Dashboard",
+          "data_source": "paper_comparisons.json",
+          "metrics": ["pairwise_overlap", "concept_matrix", "domain_alignment"],
+          "charts": ["heatmap_overlap", "radar_domains"]
+        },
+        {
+          "id": "validation",
+          "name": "Validation Dashboard",
+          "data_source": "validation_results.json",
+          "metrics": ["validated_count", "pending_count", "failed_count", "by_criterion"],
+          "charts": ["pie_status", "bar_by_criterion"]
+        }
+      ]
+    },
+
+    "system_health": {
+      "description": "Vault and system health metrics",
+      "dashboards": [
+        {
+          "id": "vault_health",
+          "name": "Vault Health Dashboard",
+          "data_source": "vault_health.json",
+          "metrics": ["total_files", "total_words", "broken_links", "orphaned_notes"],
+          "charts": ["gauge_health", "pie_file_types"]
+        },
+        {
+          "id": "db_dashboard",
+          "name": "Database Dashboard",
+          "data_source": "db_stats.json",
+          "metrics": ["total_records", "by_table", "last_sync"],
+          "charts": ["bar_by_table", "timeline_syncs"]
+        },
+        {
+          "id": "admin",
+          "name": "Admin Dashboard",
+          "data_source": "admin_stats.json",
+          "metrics": ["users", "sessions", "api_calls"],
+          "charts": ["line_activity"]
+        }
+      ]
+    },
+
+    "specialized": {
+      "description": "Domain-specific analytics",
+      "dashboards": [
+        {
+          "id": "master_equation",
+          "name": "Master Equation Dashboard",
+          "data_source": "master_equation_analysis.json",
+          "metrics": ["chi_components", "domain_coverage", "equation_validation"],
+          "charts": ["radar_domains", "equation_breakdown"]
+        },
+        {
+          "id": "lowe_lagrangian",
+          "name": "Lowe Lagrangian Dashboard",
+          "data_source": "lagrangian_analysis.json",
+          "metrics": ["field_terms", "symmetries", "predictions"],
+          "charts": ["equation_viz", "prediction_status"]
+        }
+      ]
+    },
+
+    "workflow": {
+      "description": "Process and workflow dashboards",
+      "dashboards": [
+        {
+          "id": "analysis",
+          "name": "Analysis Dashboard",
+          "data_source": "workflow_analysis.json",
+          "metrics": ["scripts_run", "last_analysis", "pending_tasks"],
+          "charts": ["timeline_runs"]
+        },
+        {
+          "id": "visualization",
+          "name": "Visualization Dashboard",
+          "data_source": "visualization_status.json",
+          "metrics": ["charts_generated", "pending_viz"],
+          "charts": ["gallery"]
+        },
+        {
+          "id": "data_extraction",
+          "name": "Data Extraction Dashboard",
+          "data_source": "extraction_status.json",
+          "metrics": ["files_processed", "entities_extracted"],
+          "charts": ["bar_by_type"]
+        },
+        {
+          "id": "linking",
+          "name": "Linking Dashboard",
+          "data_source": "linking_status.json",
+          "metrics": ["links_created", "suggestions_pending"],
+          "charts": ["network_preview"]
+        }
+      ]
+    }
+  },
+
+  "core_metrics": {
+    "description": "Metrics available from TheophysicsAnalyzer",
+    "from_core_analyzer": [
+      "word_count",
+      "line_count",
+      "concepts",
+      "domains",
+      "equations",
+      "references",
+      "structure",
+      "coherence.total",
+      "coherence.concept_density",
+      "coherence.cross_reference",
+      "coherence.domain_coverage",
+      "coherence.term_consistency",
+      "breakthroughs"
+    ]
+  },
+
+  "chart_types": {
+    "pie": "Pie chart for categorical distribution",
+    "bar": "Bar chart for comparisons",
+    "line": "Line chart for trends over time",
+    "gauge": "Gauge/speedometer for single metrics",
+    "heatmap": "Heatmap for matrices",
+    "radar": "Radar/spider chart for multi-dimensional",
+    "network": "Network graph for relationships",
+    "timeline": "Timeline for chronological data",
+    "word_cloud": "Word cloud for frequency",
+    "gallery": "Image gallery for equations/charts"
+  }
+}
