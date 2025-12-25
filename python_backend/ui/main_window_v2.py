@@ -53,6 +53,7 @@ class MainWindowV2(QMainWindow):
         ("🔗", "Auto-Linker"),
         ("📚", "Definitions"),
         ("📊", "Data Aggregation"),
+        ("📈", "Statistics"),  # NEW - Multi-paper analytics
         ("🔗", "Research Links"),
         ("📝", "Footnotes & Templates"),
         ("🧠", "Semantic Dashboard"),
@@ -240,12 +241,13 @@ class MainWindowV2(QMainWindow):
         self._build_linker_page()         # 2 - Auto-Linker
         self._build_definitions_page()    # 3 - Definitions
         self._build_aggregation_page()    # 4 - Data Aggregation
-        self._build_research_links_page() # 5 - Research Links
-        self._build_footnotes_page()      # 6 - Footnotes & Templates
-        self._build_semantic_dashboard()  # 7 - Semantic Dashboard
-        self._build_tag_manager_page()    # 8 - Tag Manager
-        self._build_database_page()       # 9 - Database
-        self._build_settings_page()       # 10 - Settings
+        self._build_statistics_page()     # 5 - Statistics (NEW)
+        self._build_research_links_page() # 6 - Research Links
+        self._build_footnotes_page()      # 7 - Footnotes & Templates
+        self._build_semantic_dashboard()  # 8 - Semantic Dashboard
+        self._build_tag_manager_page()    # 9 - Tag Manager
+        self._build_database_page()       # 10 - Database
+        self._build_settings_page()       # 11 - Settings
     
     def _on_nav_changed(self, index: int):
         """Handle navigation selection."""
@@ -2163,6 +2165,22 @@ class MainWindowV2(QMainWindow):
                 
         except Exception as e:
             QMessageBox.critical(self, "Error", f"Failed to export insights:\n{str(e)}")
+
+    # ==========================================
+    # PAGE 5: STATISTICS (Multi-Paper Analytics)
+    # ==========================================
+    def _build_statistics_page(self):
+        """Build Statistics page using the StatisticsTab component."""
+        try:
+            from .tabs.statistics_tab import StatisticsTab
+            statistics_tab = StatisticsTab()
+            self.page_stack.addWidget(statistics_tab)
+        except ImportError as e:
+            # Fallback if StatisticsTab not available
+            page, layout = self._create_page_container("📈 Statistics")
+            layout.addWidget(QLabel(f"StatisticsTab not available: {e}"))
+            layout.addWidget(QLabel("Features: Folder analysis, paper comparison, coherence metrics, breakthrough detection"))
+            layout.addStretch()
 
     def _build_research_links_page(self):
         page, layout = self._create_page_container("🔗 Research Links")
