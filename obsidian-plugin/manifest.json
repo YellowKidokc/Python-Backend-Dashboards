@@ -1,0 +1,10 @@
+{
+	"id": "theophysics-analytics-dashboard",
+	"name": "Theophysics Analytics Dashboard",
+	"version": "0.1.0",
+	"minAppVersion": "1.1.0",
+	"description": "Theophysics research analytics dashboard. Track axioms, proofs, equations, and paper progress (P1-P12). Based on Dashboard Navigator by Bernardo Pires.",
+	"author": "Dave Lee (fork of drbap/dashboard-navigator)",
+	"authorUrl": "https://github.com/YellowKidokc",
+	"isDesktopOnly": false
+}

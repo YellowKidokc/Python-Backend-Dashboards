@@ -25,8 +25,26 @@ Theophysics Analytics Backend - Python tools, dashboards, and Obsidian plugin de
 │   ├── Reports/                 # Generated reports
 │   └── theophysics_analytics/   # Python analytics engine
 │
-└── obsidian-plugin/             # Forked Dashboard Navigator (planned)
+└── obsidian-plugin/             # Theophysics Analytics Dashboard (forked from Dashboard Navigator)
+    ├── src/                     # TypeScript source
+    ├── manifest.json            # Obsidian plugin manifest
+    ├── styles.css               # Plugin styles
+    └── THEOPHYSICS_CUSTOMIZATION_PLAN.md  # Customization roadmap
 ```
+
+## Obsidian Plugin (Theophysics Analytics Dashboard)
+
+Forked from [Dashboard Navigator](https://github.com/drbap/dashboard-navigator-for-obsidian) by Bernardo Pires (MIT License).
+
+**Planned Features:**
+- Paper progress tracking (P1-P12)
+- Axiom/Proof/Law categorization with pie charts
+- Framework breakdown (Logos Field, Witness Field, Grace Function, etc.)
+- Custom search filters: `@axiom`, `@proof`, `@P1`, `@equation:`
+- UUID cross-reference lookup
+- Equation gallery with LaTeX rendering
+
+See [THEOPHYSICS_CUSTOMIZATION_PLAN.md](obsidian-plugin/THEOPHYSICS_CUSTOMIZATION_PLAN.md) for details.
 
 ## Python Backend Features
 
